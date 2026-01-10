@@ -10,10 +10,14 @@ please find attached my workshop submission demonstrating 4 AutoML frameworks:
 -Screenshot: h2o_results.png
 
 -Status: ✅ Works perfectly, occasional minor glitches during initialization
+
 ------------------------------------------------------------------------------------------------------------------
 2. MLJAR AutoML:
+   
 -File: MLJAR.py
+
 -Screenshot: mljar_results.png
+
 -Status: ✅ Works perfectly 
 ------------------------------------------------------------------------------------------------------------------
 3. AutoSklearn AutoML:
